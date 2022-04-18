@@ -1,1 +1,1 @@
-
+Java Fundamentals - 01.2022 - Basic Syntax, Conditional Statements and Loops - Lab Solutions.
